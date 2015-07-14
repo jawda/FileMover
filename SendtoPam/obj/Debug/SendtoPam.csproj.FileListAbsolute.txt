@@ -1,0 +1,8 @@
+C:\Users\drivera\Documents\Visual Studio 2008\Projects\SendtoPam\SendtoPam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\drivera\Documents\Visual Studio 2008\Projects\SendtoPam\SendtoPam\obj\Debug\SendtoPam.Form1.resources
+C:\Users\drivera\Documents\Visual Studio 2008\Projects\SendtoPam\SendtoPam\obj\Debug\SendtoPam.Properties.Resources.resources
+C:\Users\drivera\Documents\Visual Studio 2008\Projects\SendtoPam\SendtoPam\obj\Debug\SendtoPam.csproj.GenerateResource.Cache
+C:\Users\drivera\Documents\Visual Studio 2008\Projects\SendtoPam\SendtoPam\bin\Debug\SendtoPam.exe
+C:\Users\drivera\Documents\Visual Studio 2008\Projects\SendtoPam\SendtoPam\bin\Debug\SendtoPam.pdb
+C:\Users\drivera\Documents\Visual Studio 2008\Projects\SendtoPam\SendtoPam\obj\Debug\SendtoPam.exe
+C:\Users\drivera\Documents\Visual Studio 2008\Projects\SendtoPam\SendtoPam\obj\Debug\SendtoPam.pdb
